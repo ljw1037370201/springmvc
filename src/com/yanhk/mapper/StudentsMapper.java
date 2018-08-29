@@ -24,8 +24,8 @@ public interface StudentsMapper {
     void delStu(int id);
 
     /**
-     * 根据id修改学生信息
-     * @param id 学生id
+     *根据学生id修改信息
+     * @param students 传入学生的id，name,sex,age
      */
-    void updateStu(int id);
+    void updateStu(Students students);
 }

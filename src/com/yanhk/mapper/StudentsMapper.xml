@@ -10,7 +10,13 @@
     <delete id="delStu" parameterType="int">
         DELETE FROM students WHERE id=#{id}
     </delete>
-    <update id="updateStu" parameterType="int" >
-        UPDATE students SET name=#{name} sex=#{sex} age=#{age} WHERE id=#{id}
+    <parameterMap id="studentMap" type="com.yanhk.pojo.Students">
+        <parameter property="name" resultMap="studentMap"/>
+        <parameter property="sex" resultMap="studentMap"/>
+        <parameter property="age" resultMap="studentMap"/>
+    </parameterMap>
+    <update id="updateStu" parameterMap="studentMap" >
+        UPDATE students SET name=#{name},sex=#{sex},age=#{age} WHERE id=#{id}
     </update>
+
 </mapper>

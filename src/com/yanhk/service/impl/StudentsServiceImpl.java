@@ -23,8 +23,13 @@ public class StudentsServiceImpl implements StudentsService {
     }
 
     @Override
-    public void updateStu(int id) {
-        studentsMapper.updateStu(id);
+    public void updateStu(int id,String name,String sex,int age) {
+        Students students = new Students();
+        students.setId(id);
+        students.setName(name);
+        students.setSex(sex);
+        students.setAge(age);
+        studentsMapper.updateStu(students);
     }
 
     @Override

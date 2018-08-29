@@ -1,0 +1,165 @@
+
+
+[INFO ] 2018-08-29 13:22:09,180 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 13:22:09 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 13:22:09,236 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 13:22:09,735 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 13:23:35,140 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 13:23:35 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 13:23:35,190 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 13:23:35,537 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 13:28:29,585 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 13:28:29 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 13:28:29,640 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 13:28:29,971 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 13:29:21,308 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 13:29:21 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 13:29:21,361 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 13:29:21,704 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 13:33:57,162 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 13:33:57 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 13:33:57,221 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 13:33:57,543 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 13:40:47,000 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 13:40:46 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 13:40:47,058 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 13:40:47,380 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 13:40:47,866 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+
+
+[INFO ] 2018-08-29 13:40:47,891 method:org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127)
+SQLErrorCodes loaded: [DB2, Derby, H2, HDB, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+
+
+[INFO ] 2018-08-29 13:42:21,999 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 13:42:21 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 13:42:22,050 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 13:42:22,365 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 13:42:22,879 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+
+
+[INFO ] 2018-08-29 13:42:22,905 method:org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127)
+SQLErrorCodes loaded: [DB2, Derby, H2, HDB, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+
+
+[INFO ] 2018-08-29 13:56:55,361 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 13:56:55 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 13:56:55,414 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 13:56:55,771 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 17:45:37,040 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 17:45:37 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 17:45:37,099 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 17:45:37,467 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[WARN ] 2018-08-29 17:45:37,686 method:org.springframework.beans.factory.support.AbstractBeanFactory.getTypeForFactoryBean(AbstractBeanFactory.java:1530)
+Bean creation exception on non-lazy FactoryBean type check: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'studentsMapper' defined in file [D:\springmvc\out\production\springmvc\com\yanhk\mapper\StudentsMapper.class]: Cannot resolve reference to bean 'sqlSessionFactory' while setting bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [applicationContext.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'file [D:\springmvc\out\production\springmvc\com\yanhk\mapper\StudentsMapper.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'studentMap'.  Cause: java.lang.ClassNotFoundException: Cannot find class: studentMap
+
+
+[WARN ] 2018-08-29 17:45:37,688 method:org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'studentsServiceImpl': Unsatisfied dependency expressed through field 'studentsMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.yanhk.mapper.StudentsMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Related cause: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'studentsMapper' defined in file [D:\springmvc\out\production\springmvc\com\yanhk\mapper\StudentsMapper.class]: Cannot resolve reference to bean 'sqlSessionFactory' while setting bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [applicationContext.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'file [D:\springmvc\out\production\springmvc\com\yanhk\mapper\StudentsMapper.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'studentMap'.  Cause: java.lang.ClassNotFoundException: Cannot find class: studentMap
+
+
+[INFO ] 2018-08-29 17:52:59,894 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 17:52:59 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 17:52:59,970 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 17:53:00,426 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
+
+
+[INFO ] 2018-08-29 17:53:01,146 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+
+
+[INFO ] 2018-08-29 17:53:01,173 method:org.springframework.jdbc.support.SQLErrorCodesFactory.<init>(SQLErrorCodesFactory.java:127)
+SQLErrorCodes loaded: [DB2, Derby, H2, HDB, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+
+
+[INFO ] 2018-08-29 17:59:36,182 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@63d4e2ba: startup date [Wed Aug 29 17:59:36 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-29 17:59:36,235 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [applicationContext.xml]
+
+
+[INFO ] 2018-08-29 17:59:36,579 method:org.springframework.jdbc.datasource.DriverManagerDataSource.setDriverClassName(DriverManagerDataSource.java:133)
+Loaded JDBC driver: com.mysql.jdbc.Driver
