@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yanhk.mapper.StudentsMapper">
+    <insert id="addStu" parameterType="com.yanhk.pojo.Students">
+        INSERT INTO students(name,sex,age) VALUE(#{name},#{sex},#{age})
+    </insert>
+    <select id="findStu" parameterType="int" resultType="com.yanhk.pojo.Students">
+        SELECT * FROM students WHERE id=#{id}
+    </select>
+    <delete id="delStu" parameterType="int">
+        DELETE FROM students WHERE id=#{id}
+    </delete>
+    <parameterMap id="studentMap" type="com.yanhk.pojo.Students">
+        <parameter property="name" resultMap="studentMap"/>
+        <parameter property="sex" resultMap="studentMap"/>
+        <parameter property="age" resultMap="studentMap"/>
+    </parameterMap>
+    <update id="updateStu" parameterMap="studentMap" >
+        UPDATE students SET name=#{name},sex=#{sex},age=#{age} WHERE id=#{id}
+    </update>
+
+</mapper>
